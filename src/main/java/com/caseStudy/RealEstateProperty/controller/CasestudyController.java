@@ -42,11 +42,4 @@ public class CasestudyController {
 		    	  return realestate_data;
 		 } 
 }
-//public ResponseEntity<List<EmployeeEntity>> getAllEmployees(
-        //@RequestParam(defaultValue = "0") Integer pageNo, 
-        //@RequestParam(defaultValue = "10") Integer pageSize,
-        //@RequestParam(defaultValue = "id") String sortBy) 
-//{
-//List<EmployeeEntity> list = service.getAllEmployees(pageNo, pageSize, sortBy);
-
-//return new ResponseEntity<List<EmployeeEntity>>(list, new HttpHeaders(), HttpStatus.OK); 
+ 
